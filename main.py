@@ -2,10 +2,6 @@ import requests
 import json
 
 
-
-# from zhdate import ZhDate
-
-
 class SendMessage():  # 定义发送消息的类
     def __init__(self):
         self.id = 'wx6d771010554cda6d'
